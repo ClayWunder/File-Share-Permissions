@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://logowik.com/content/uploads/images/microsoft-active-directory5035.jpg
+<img src=https://github.com/ClayWunder/File-Share-Permissions/assets/157168474/3c024d8e-ee73-4fa8-85c7-115947491897)
 </p>
 
 <h1>Configuring File Sharing and Permissions in Active Directory.</h1>
